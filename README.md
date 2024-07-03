@@ -1,26 +1,5 @@
-# Hi there! 👋
-
 <div align="center">
   <img width="600" alt="GIF" align="center" src="https://media.giphy.com/media/sr8jYZVVsCmxddga8w/giphy.gif">
-</div>
-<br>
-
-# About ME 💬:
-<div>
-  <img width="370" alt="GIF" align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
-  
-  ### I’m Maria, Junior Frontend-developer🌱
-  ### And I'm on my way to becoming a great professional and bringing my ideas to life with ease🌸
-
-  ### **Main skills**:
-  >✨ JavaScript, TypeScript<br>
-  ✨ React.js, Redux<br>
-  ✨ HTML/CSS, SASS/SCSS, BEM
-
-  ### **Learning**:
-  >✨ JS testing<br>
-  ✨ Angular<br>
-  ✨ Design patterns
 </div>
 <br>
 
